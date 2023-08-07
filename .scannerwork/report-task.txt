@@ -1,0 +1,8 @@
+organization=sk-organization
+projectKey=sk-organization_sk-java-app0823
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.44803
+branch=master
+dashboardUrl=https://sonarcloud.io/dashboard?id=sk-organization_sk-java-app0823&branch=master
+ceTaskId=AYnQvnzZmYaVRA5eSrin
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYnQvnzZmYaVRA5eSrin
