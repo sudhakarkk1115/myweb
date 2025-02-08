@@ -1,8 +1,8 @@
-organization=sk-organization
-projectKey=sk-devops-org1
+organization=sk-org1
+projectKey=sk-org1_sk-java-application
 serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.44803
+serverVersion=8.0.0.57006
 branch=master
-dashboardUrl=https://sonarcloud.io/dashboard?id=sk-devops-org1&branch=master
-ceTaskId=AYnThS9hoadhGL0Cc2Fp
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYnThS9hoadhGL0Cc2Fp
+dashboardUrl=https://sonarcloud.io/dashboard?id=sk-org1_sk-java-application&branch=master
+ceTaskId=AZJ4CAGJLtlSs8gMhdRj
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZJ4CAGJLtlSs8gMhdRj
